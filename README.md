@@ -4,7 +4,7 @@
 <br>- 🌱 I’m currently learning Golang
 <br>
 <br><h2> Languages and Tools</h4>
-<br><h3>✦ HTML & CSS</h3>
+<br>✦ HTML & CSS
 <br>✦ SCSS
 <br>✦ JavaScript
 <br>✦ Webpack & Babel
