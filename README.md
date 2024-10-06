@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm Ludmila👋</h1>
-<br>- 💞️ I love programming
+- 💞️ I love programming
 <br>- 📫 I’m learning new languages
 <br>- 🌱 I’m currently learning Golang
 <br>
