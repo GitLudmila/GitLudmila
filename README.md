@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Ludmila👋</h1>
+<h1 align="center">╰┈➤Hi, i'm Ludmila</h1>
 - 💞️ I love programming
 <br>- 📫 I’m learning new languages
 <br>- 🌱 I’m currently learning Golang
