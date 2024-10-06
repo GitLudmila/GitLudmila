@@ -3,7 +3,7 @@
 <br>- 📫 I’m learning new languages
 <br>- 🌱 I’m currently learning Golang
 <br>
-<br><h2>Languages and Tools</h4>
+<br><h2>✶⋆.˚ Languages and Tools</h4>
 <br>✦ HTML & CSS
 <br>✦ SCSS
 <br>✦ JavaScript
