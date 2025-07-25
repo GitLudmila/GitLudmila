@@ -6,6 +6,7 @@
 <br><h2> Languages and Tools</h2>
 <br>✦ HTML & CSS
 <br>✦ SCSS
+<br>✦ Tailwind CSS
 <br>✦ JavaScript
 <br>✦ Webpack & Babel
 <br>✦ PHP
