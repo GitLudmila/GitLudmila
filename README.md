@@ -1,19 +1,26 @@
-<h1 align="center">╰┈➤Hi, i'm Ludmila</h1>
-- 💞️ I love programming
-<br>- 📫 I’m learning new languages
-<br>- 🌱 Currently trying to learn React Native
-<br>
-<br><h2> Languages and Tools</h2>
-<br>✦ HTML
-<br>✦ CSS + SCSS
-<br>✦ Flexbox
-<br>✦ Git
-<br>✦ Bash
-<br>✦ JavaScript
-<br>✦ TypeScript
-<br>✦ React
-<br>✦ Redux
-<br>✦ Grid Layout
-<br>✦ DOM
-<br>✦ Webpack + Vite
-<br>✦ ООП
+# Hi, I'm Ludmila👀
+
+**Frontend Developer** · React · TypeScript · UX-minded
+
+Frontend-разработчик с интересом к UX-дизайну. Мне важно видеть,
+как решение превращается в работающий продукт, которым пользуются люди.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** JavaScript · TypeScript · HTML · CSS/SCSS  
+**Frameworks:** React · Redux  
+**Layout:** Flexbox · Grid · DOM  
+**Tools:** Git · Bash · Webpack · Vite  
+**Concepts:** ООП
+
+---
+
+## 📫 Контакты
+
+- Telegram: [@Ludmila0044](https://t.me/Ludmila0044)
+- Email: [liudmylavorobiovaa@gmail.com](mailto:liudmylavorobiovaa@gmail.com)
+- Резюме: [ссылка на HeadHunter](https://hh.ru/resume/2c645423ff11166f310039ed1f53453375534b?print=true)
+
+---
