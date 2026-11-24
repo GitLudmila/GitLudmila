@@ -5,8 +5,6 @@
 Frontend-разработчик с интересом к UX-дизайну. Мне важно видеть,
 как решение превращается в работающий продукт, которым пользуются люди.
 
----
-
 ## 🛠 Tech Stack
 
 **Languages:** JavaScript · TypeScript · HTML · CSS/SCSS  
@@ -14,8 +12,6 @@ Frontend-разработчик с интересом к UX-дизайну. Мн
 **Layout:** Flexbox · Grid · DOM  
 **Tools:** Git · Bash · Webpack · Vite  
 **Concepts:** ООП
-
----
 
 ## 📫 Контакты
 
